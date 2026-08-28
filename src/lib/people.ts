@@ -11,8 +11,8 @@ export const people: Partial<Record<PersonSlug, Person>> = {
   darshan: {
     slug: "darshan",
     name: "Darshan",
-    image: "/darshan.jpg",
-    festiveImage: "/darshan-festive.jpg",
+    image: "/darshan.png",
+    festiveImage: "/darshan-festive.png",
   },
   pinku: {
     slug: "pinku",
