@@ -14,12 +14,12 @@ export const people: Partial<Record<PersonSlug, Person>> = {
     image: "/darshan.jpg",
     festiveImage: "/darshan-festive.jpg",
   },
-  // pinku: {
-  //   slug: "pinku",
-  //   name: "Akash",
-  //   image: "/pinku.jpg",
-  //   festiveImage: "/pinku-festive.jpg",
-  // },
+  pinku: {
+    slug: "pinku",
+    name: "Akash",
+    image: "/pinku.jpg",
+    festiveImage: "/pinku-festive.jpg",
+  },
   // raja: {
   //   slug: "raja",
   //   name: "Raja",
